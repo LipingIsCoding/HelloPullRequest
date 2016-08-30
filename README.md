@@ -1,2 +1,2 @@
 # HelloPullRequest
-*1
+*2
